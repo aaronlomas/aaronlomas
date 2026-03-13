@@ -3,7 +3,7 @@
 <ul>
   <li>🧑🏻‍💻 Apps de Escritorio y Soluciones IT 🖥️</li>
   <li>🛠️ Desarrollo herramientas practicas y óptimas ⚙️</li>
-  <li>🍫 Web3</li>
+  <li>🏗️ Aprendiendo Web3 con Rust 🦀</li>
   <li>📫 Contacto: aaronderian@outlook.com</li>
 </ul>
 <h4>My OS, Languages and Tools:<h4>
@@ -11,9 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="50" height="50" alt="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="50" height="50" alt="Svelte"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="50" height="50" alt="Tauri"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" 
-     width="50" height="50" 
-     style="filter: brightness(0) invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" alt="typescript"/>      
