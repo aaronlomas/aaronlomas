@@ -6,7 +6,7 @@
   <li>🧑🏻‍💻 Web3</li>
   <li>📫 Contacto: aaronderian@outlook.com</li>
 </ul>
-<h4>Languages and Tools:<h4>
+<h4>My OS, Languages and Tools:<h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="50" height="50" alt="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="50" height="50" alt="Svelte"/>
