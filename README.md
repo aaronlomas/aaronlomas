@@ -2,8 +2,8 @@
 <h3><strong>Técnico de Soporte TI | Desarrollador de Software</strong></h3>
 <ul>
   <li>🧑🏻‍💻 Apps de Escritorio y Soluciones IT 🖥️</li>
-  <li>🛠️ Creando herramientas practicas y óptimas ⚙️</li>
-  <li>🧑🏻‍💻 Web3</li>
+  <li>🛠️ Desarrollo herramientas practicas y óptimas ⚙️</li>
+  <li>🍫 Web3</li>
   <li>📫 Contacto: aaronderian@outlook.com</li>
 </ul>
 <h4>My OS, Languages and Tools:<h4>
