@@ -3,7 +3,6 @@
 <ul>
   <li>🧑🏻‍💻 Apps de Escritorio y Soluciones IT 🖥️</li>
   <li>🛠️ Desarrollo herramientas practicas y óptimas ⚙️</li>
-  <li>🏗️ Aprendiendo Web3 con Rust 🦀</li>
   <li>📫 Contacto: aaronderian@outlook.com</li>
 </ul>
 <h4>Mi OS, Lenguajes y Herramientas:<h4>
