@@ -6,7 +6,7 @@
   <li>📫 Contacto: aaronderian@outlook.com</li>
 </ul>
 <h4>Mi OS, Lenguajes y Herramientas:<h4>
-<p align="left" style="display: flex;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="50" height="50" alt="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="50" height="50" alt="Svelte"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="50" height="50" alt="Astro"/>
