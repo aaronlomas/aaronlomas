@@ -7,6 +7,16 @@
 </ul>
 <h4>Mi OS, Lenguajes y Herramientas:<h4>
 <p align="left">
-  <img src="https://jsdelivr.net" width="50" height="50" alt="Debian"/><img src="https://jsdelivr.net" width="50" height="50" alt="Svelte"/><img src="https://jsdelivr.net" width="50" height="50" alt="Astro"/><img src="https://jsdelivr.net" width="50" height="50" alt="Tauri"/><img src="https://jsdelivr.net" width="50" height="50" alt="Python"/><img src="https://jsdelivr.net" width="50" height="50" alt="Nodejs"/><img src="https://jsdelivr.net" width="50" height="50" alt="javascript"/><img src="https://jsdelivr.net" width="50" height="50" alt="typescript"/><img src="https://jsdelivr.net" width="50" height="50" alt="MongoDB"/><img src="https://jsdelivr.net" width="50" height="50" alt="SQLite3"/>
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Debian" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Svelte" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Astro" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Tauri" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Python" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Nodejs" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="JS" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="TS" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="MongoDB" /> 
+  <img src="https://jsdelivr.net" width="50" height="50" alt="SQLite3" />
 </p>
+
 
