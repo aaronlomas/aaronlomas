@@ -4,7 +4,7 @@
   <li>🧑🏻‍💻 Apps de Escritorio y Soluciones IT 🖥️</li>
   <li>📫 Contacto: aaronderian@outlook.com</li>
 </ul>
-<h4>Mis, Lenguajes y Herramientas:<h4>
+<h4>Lenguajes y Herramientas:<h4>
 
 <p align="left" style="display: flex; flex-direction: row;>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="50" height="50" alt="Svelte"/>
