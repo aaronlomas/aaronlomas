@@ -1,15 +1,12 @@
-## Hey! Soy Aaron 👋
+## Te saluda Aaron 👋
 <h3><strong>Técnico de Soporte TI | Desarrollador de Software</strong></h3>
 <ul>
   <li>🧑🏻‍💻 Apps de Escritorio y Soluciones IT 🖥️</li>
-  <li>🛠️ Desarrollo herramientas practicas y óptimas ⚙️</li>
   <li>📫 Contacto: aaronderian@outlook.com</li>
 </ul>
-<h4>Mi OS, Lenguajes y Herramientas:<h4>
+<h4>Mis, Lenguajes y Herramientas:<h4>
 
 <p align="left" style="display: flex; flex-direction: row;>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="50" height="50" alt="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="50" height="50" alt="Svelte"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="50" height="50" alt="Astro"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="50" height="50" alt="Tauri"/>
