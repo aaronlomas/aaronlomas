@@ -1,10 +1,10 @@
-## Te saluda Aaron 👋
-<h3><strong>Técnico de Soporte TI | Desarrollador de Software</strong></h3>
+## Aaron here 👋
+<h3><strong>IT Support Technician | Software Developer</strong></h3>
 <ul>
-  <li>🧑🏻‍💻 Apps de Escritorio y Soluciones IT 🖥️</li>
-  <li>📫 Contacto: aaronderian@outlook.com</li>
+  <li>🧑🏻‍💻 Desktop Apps And IT Solutions 🖥️</li>
+  <li>📫 Contact: aaronderian@outlook.com</li>
 </ul>
-<h4>Mi OS, Lenguajes y Herramientas:<h4>
+<h4>My OS, Language And Tools:<h4>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="50" height="50" alt="Debian"/>
